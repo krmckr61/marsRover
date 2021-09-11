@@ -1,6 +1,6 @@
 ## Mars Rover (Case Study) Restful API
 
-This project has builded with PHP Laravel 8 Framework
+This project has builded with PHP Laravel 8 Framework.
 
 <b><h3>Requirements</h3></b>
 Docker<br>
@@ -163,4 +163,12 @@ base url : http://localhost/api/v1/
 </pre>
 
 <b>To run tests</b>
-<pre>./vendor/bin/sail artisan test</pre>
+<pre>./vendor/bin/sail artisan test</pre><br>
+<hr>
+<p style="text-align: right">
+<b>Kerem Çakır</b><br>
+Software Engineer<br>
+kerem.cakirr@gmail.com<br>
+<a href="https://www.linkedin.com/in/krmckr/">https://www.linkedin.com/in/krmckr/</a>
+<br>
+</p>
