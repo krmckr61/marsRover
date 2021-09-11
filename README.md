@@ -2,8 +2,17 @@
 
 This project has builded with PHP Laravel 8 Framework
 
-<b><h3>Installation</h3></b>
+<b><h3>Requirements</h3></b>
+Docker<br>
+docker-compose<br>
+git<br>
 
+<b><h3>Installation</h3></b>
+<pre>git clone https://github.com/krmckr61/marsRover.git</pre>
+To build docker containers
+<pre>./vendor/bin/sail up -d</pre>
+To run tests
+<pre>./vendor/bin/sail artisan test</pre>
 
 
 <b><h3>Requests</h3></b>
