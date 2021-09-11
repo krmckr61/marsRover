@@ -11,8 +11,6 @@ git<br>
 <pre>git clone https://github.com/krmckr61/marsRover.git</pre>
 To build docker containers
 <pre>./vendor/bin/sail up -d</pre>
-To run tests
-<pre>./vendor/bin/sail artisan test</pre>
 
 
 <b><h3>Requests</h3></b>
@@ -163,3 +161,6 @@ base url : http://localhost/api/v1/
     "id": 15
 }
 </pre>
+
+<b>To run tests</b>
+<pre>./vendor/bin/sail artisan test</pre>
